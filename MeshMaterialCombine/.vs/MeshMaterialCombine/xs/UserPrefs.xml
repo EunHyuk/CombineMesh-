@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2DCA4FE5-044A-EFAA-A04E-8B8D4E6E60F3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Src/CombineSkinMeshRenderAndMaterials.cs">
+    <Files>
+      <File FileName="Assets/Src/CombineMeshAndMaterials.cs" Line="77" Column="31" />
+      <File FileName="Assets/Src/CombineSkinMeshRenderAndMaterials.cs" Line="17" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MeshMaterialCombine" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="Src" expanded="True">
+                <Node name="CombineSkinMeshRenderAndMaterials.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="77a07ea4-155d-44e2-8032-fe8a008d7a29" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
